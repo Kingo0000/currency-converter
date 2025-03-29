@@ -2,7 +2,6 @@
 
 A simple, lightweight currency converter web application built with vanilla HTML, CSS, and JavaScript.
 
-![Currency Converter Screenshot](/images/cc.png)
 
 ## Features
 
